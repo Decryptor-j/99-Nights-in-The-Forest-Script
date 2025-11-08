@@ -1,7 +1,7 @@
 {
 	"name": "@rbxts/template",
 	"version": "1.0.0-ts.2",
-	"description": "A template to create a new package easily for 99 nights.",
+	"description": "template to create a new package easily for 99 nights in the forest.",
 	"keywords": [
 		"template",
 		"roblox-ts",
@@ -42,4 +42,5 @@
 		"roblox-ts": "2.3.0-dev-576ad98"
 	}
 }
+
 
