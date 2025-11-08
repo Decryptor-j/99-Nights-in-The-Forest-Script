@@ -18,8 +18,9 @@
     "@isentinel/dict-rbxts": "1.0.1",
     "husky": "9.1.5",
     "cspell": "8.14.2",
-    "shx": "0.3.4"
+    "shx": "0.3.3"
   }
 
 }
+
 
