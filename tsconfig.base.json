@@ -27,6 +27,7 @@
     // misc
     "jsxFactory": "",
     "jsxFragmentFactory": "",
-    "stripComments": true // same idea as removeComments
+    "stripComments": true 
   }
 }
+
